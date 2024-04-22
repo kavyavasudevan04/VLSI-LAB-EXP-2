@@ -28,8 +28,7 @@ or(c,d[1],d[3],d[5],d[7]);
 endmodule
 ```
 ### Output Waveform:
-![image](https://github.com/NMRohith/VLSI-LAB-EXP-2/assets/163638659/89f8d4cf-4159-48bd-b7b8-4c1a54ba0251)
-
+C:\Users\kavya\OneDrive\Pictures\Screenshots\Screenshot 2024-03-08 183326.png
 
 
 
