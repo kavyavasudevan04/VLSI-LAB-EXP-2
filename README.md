@@ -28,7 +28,7 @@ or(c,d[1],d[3],d[5],d[7]);
 endmodule
 ```
 ### Output Waveform:
-C:\Users\kavya\OneDrive\Pictures\Screenshots\Screenshot 2024-03-08 183326.png
+C:/Users/kavya/OneDrive/Pictures/Screenshots/Screenshot 2024-03-08 183326.png
 
 
 
